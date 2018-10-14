@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 int y = 7;
-
+double g = 6.9;
 int main(void)
 {
 printf("Hello, world!\n");
